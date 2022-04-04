@@ -1,0 +1,564 @@
+Command: /home/users5/ec385912/ECE527LSP22/ECE527L-LAB7/state_machine/sim/netlist_sim/./simv -l sim_netlist.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-2_Full64; Runtime version N-2017.12-SP2-2_Full64;  Apr  3 22:42 2022
+Doing SDF annotation ...... Done
+VCD+ Writer N-2017.12-SP2-2_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+
+FSM State: Xx
+clk: x, B1: x, B2: x, B3: x, | OUTPUT: x
+
+FSM State: XX
+clk: 0, B1: x, B2: x, B3: x, | OUTPUT: x
+
+FSM State: ZX
+clk: 0, B1: x, B2: x, B3: x, | OUTPUT: x
+
+FSM State: Z1
+clk: 0, B1: x, B2: x, B3: x, | OUTPUT: x
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z2
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z4
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z8
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z9
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: Z1
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z2
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z4
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z8
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z9
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: Z1
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z2
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z4
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z8
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z9
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: Z1
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z2
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z4
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z8
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z9
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: Z1
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z2
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z4
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z8
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z9
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: Z1
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z2
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z4
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z8
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: Z9
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: Z1
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z2
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z4
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z8
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z1
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z2
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z4
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z8
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z1
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z2
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z4
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z8
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z1
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z2
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z4
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z8
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z9
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z1
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z2
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z4
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z8
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z9
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z1
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z2
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z4
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z8
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z9
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z1
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z2
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z4
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z8
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z9
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z1
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z2
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z4
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z8
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z9
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z1
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z2
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z4
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z8
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z9
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z1
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z2
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z4
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: Z8
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z1
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z2
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z4
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: Z8
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z1
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z2
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z4
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: Z8
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: Z1
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+$finish called from file "tb_state_machine.v", line 62.
+$finish at simulation time             19225000
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 19225000 ps
+CPU Time:      0.230 seconds;       Data structure size:   0.1Mb
+Sun Apr  3 22:42:38 2022
