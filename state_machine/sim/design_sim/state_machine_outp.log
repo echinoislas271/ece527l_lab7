@@ -1,0 +1,419 @@
+Command: /home/users5/ec385912/ECE527LSP22/ECE527L-LAB5/./simv -l state_machine_outp.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-2_Full64; Runtime version N-2017.12-SP2-2_Full64;  Mar  8 14:29 2022
+VCD+ Writer N-2017.12-SP2-2_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+
+FSM State: x
+clk: 0, B1: 1, B2: 0, B3: 0, | OUTPUT: x
+
+FSM State: x
+clk: 0, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 1
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 3
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 3
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 1
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 3
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 3
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 1
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 3
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 3
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 1
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 3
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 3
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 1
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 3
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 3
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 1
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 3
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 0
+
+FSM State: 3
+clk: 1, B1: 1, B2: 0, B3: 0, | OUTPUT: 1
+
+FSM State: 3
+clk: 0, B1: 0, B2: 1, B3: 0, | OUTPUT: 1
+
+FSM State: 4
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 1
+
+FSM State: 4
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 5
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 6
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 7
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 1
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 3
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 3
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 1
+
+FSM State: 4
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 1
+
+FSM State: 4
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 5
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 6
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 7
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 1
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 3
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 3
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 1
+
+FSM State: 4
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 1
+
+FSM State: 4
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 5
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 6
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 7
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 0
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 1
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 3
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 0
+
+FSM State: 3
+clk: 1, B1: 0, B2: 1, B3: 0, | OUTPUT: 1
+
+FSM State: 3
+clk: 0, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: 1
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 3
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: 1
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 3
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: 1
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 3
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: 1
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 3
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: 1
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 3
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 0
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: 1
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 3
+clk: 1, B1: 1, B2: 0, B3: 1, | OUTPUT: 1
+
+FSM State: 3
+clk: 0, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: 4
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: 4
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 5
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 6
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 7
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 1
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: 3
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: 4
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: 4
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 5
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 6
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 7
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 1
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: 3
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: 4
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: 4
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 5
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 6
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 7
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 0
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 1
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 0
+
+FSM State: 2
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+
+FSM State: 3
+clk: 1, B1: 0, B2: 1, B3: 1, | OUTPUT: 1
+$finish called from file "tb_state_machine.v", line 43.
+$finish at simulation time                96250
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 9625000 ps
+CPU Time:      0.220 seconds;       Data structure size:   0.0Mb
+Tue Mar  8 14:29:46 2022

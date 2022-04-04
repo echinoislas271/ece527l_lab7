@@ -1,0 +1,29 @@
+#saed32rvt_tt1p05v25c.db
+#
+#
+#       Site-Specific Variables
+#
+#       These are the variables that are most commonly changed at a
+#       specific site, either upon installation of the Synopsys software,
+#       or by specific engineers in their local .synopsys files.
+#
+#
+
+# from the System Variable Group 
+#set link_library { * lsi_10k.db }
+set link_library { * /opt//ECE_Lib/SAED32_EDK/lib/stdcell_rvt/db_nldm/saed32rvt_tt1p05v25c.db }
+
+
+set search_path [list . ${synopsys_root}/libraries/syn ${synopsys_root}/dw/syn_ver ${synopsys_root}/dw/sim_ver    ]
+#set search_path  [list . ./libs ]
+#set target_library  "lsi_10k.db" 
+set target_library  "/opt//ECE_Lib/SAED32_EDK/lib/stdcell_rvt/db_nldm/saed32rvt_tt1p05v25c.db"
+set synthetic_library  ""
+set command_log_file  "./command.log"
+set designer  "Gary"
+set company  "CSUN"
+set find_converts_name_lists  "false"
+
+#set symbol_library  "lsi_10k.sdb" 
+set symbol_library  "/opt//ECE_Lib/SAED32_EDK/lib/stdcell_rvt/db_nldm/saed32rvt_tt1p05v25c.db" 
+
